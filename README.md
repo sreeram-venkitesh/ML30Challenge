@@ -11,6 +11,7 @@ The people who are currently taking up this challenge to finish the curriculum b
 - Mohita Bipin
 - Govind Krishna G
 - Aswinraj K
+- Binil V Jacob
 - Subin Siby
 - Feny Roy
 - Devika MV
