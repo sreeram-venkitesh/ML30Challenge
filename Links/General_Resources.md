@@ -5,11 +5,11 @@
 
 https://www.youtube.com/watch?v=eWJVvNptHZ4&t=556s
 
-### 1.2 Some videos to brush up Python (The playlist is long, no need to watch all)
+### 1.2 Some videos to brush up Python (The playlist is long, no need to watch all. More like a reference)
 
 https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 
-### 1.5 Learn Python in a single video! (More like it)
+### 1.5 Learn Python in a single video! (Pretty much all ya need)
 
 https://www.youtube.com/watch?v=N4mEzFDjqtA
 
