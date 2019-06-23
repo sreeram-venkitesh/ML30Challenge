@@ -9,6 +9,8 @@ The people who are currently taking up this challenge to finish the curriculum b
 - Kiran Johns
 - Varun Krishna S
 - Mohita Bipin
+- Shibija A
+- Chetana S
 - Govind Krishna G
 - Aswinraj K
 - Binil V Jacob
